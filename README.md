@@ -2,6 +2,8 @@
 
 This plugin automatically starts a timer (30 mins) when you open a Kindle page (`read.amazon.com`).
 
+**Note that this plugin is far from perfect, but usable.**
+
 # How to use
 
 1. download this repository
